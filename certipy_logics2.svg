@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Microsoft Visio、SVG Export により生成 certipy_logics2.svg 秘密鍵の確認 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.5354in" height="11.6929in"
+		viewBox="0 0 1190.55 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
+	<v:documentProperties v:langID="1041" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:#5b9bd5;stroke:#c7c8c8;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:ＭＳ Ｐゴシック;font-size:0.833336em}
+		.st5 {font-family:Calibri;font-size:1em}
+		.st6 {font-size:1em}
+		.st7 {marker-end:url(#mrkr4-27);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st8 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st9 {fill:#ff0000;stroke:#c7c8c8;stroke-width:0.25}
+		.st10 {fill:#feffff;font-family:Lucida Console;font-size:0.833336em}
+		.st11 {fill:none;stroke:none;stroke-width:0.25}
+		.st12 {fill:#5b9bd5;font-family:Calibri;font-size:1.00001em}
+		.st13 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st14 {font-family:ＭＳ Ｐゴシック;font-size:1em}
+		.st15 {fill:#ed7d31;stroke:#c7c8c8;stroke-width:0.25}
+		.st16 {fill:#70ad47;stroke:#c7c8c8;stroke-width:0.25}
+		.st17 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-27" class="st8" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="4" v:index="2" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>秘密鍵の確認</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="コネクタ" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(28.3465,-720.85)">
+			<title>平行四辺形</title>
+			<desc>秘密鍵 &#38; パスフレーズ</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 841.89 L102.05 841.89 L113.39 756.85 L11.34 756.85 L0 841.89 Z" class="st2"/>
+			</g>
+			<path d="M0 841.89 L102.05 841.89 L113.39 756.85 L11.34 756.85 L0 841.89 Z" class="st3"/>
+			<text x="41.69" y="790.04" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>秘密鍵<v:newlineChar/><tspan
+						x="53.28" dy="1.233em" class="st5">&#38;<v:newlineChar/></tspan><tspan x="29.27" dy="1.298em" class="st6">パスフレーズ</tspan></text>		</g>
+		<g id="shape2-9" v:mID="2" v:groupContext="shape" transform="translate(170.079,-720.85)">
+			<title>長方形</title>
+			<desc>秘密鍵の形式確認</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow2-10" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st3"/>
+			<text x="16.69" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>秘密鍵の形式確認</text>		</g>
+		<g id="shape3-15" v:mID="3" v:groupContext="shape" transform="translate(325.984,-720.85)">
+			<title>ひし形</title>
+			<desc>パスフレーズが 要求される</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow3-16" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st2"/>
+			</g>
+			<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st3"/>
+			<text x="24.27" y="796.04" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>パスフレーズが<v:newlineChar/><tspan
+						x="33.55" dy="1.331em" class="st6">要求</tspan>される</text>		</g>
+		<g id="shape4-22" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(136.063,-756.283)">
+			<title>動的コネクタ</title>
+			<path d="M0 834.8 L26.98 834.8" class="st7"/>
+		</g>
+		<g id="shape5-28" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(283.465,-756.283)">
+			<title>動的コネクタ.5</title>
+			<path d="M0 834.8 L35.48 834.8" class="st7"/>
+		</g>
+		<g id="shape6-33" v:mID="6" v:groupContext="shape" transform="translate(793.701,-720.85)">
+			<title>楕円</title>
+			<desc>exit 1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="799.37" width="111.62" height="74.4094"/>
+			<g id="shadow6-34" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st2"/>
+			</g>
+			<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st9"/>
+			<text x="45.7" y="802.37" class="st10" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>exit 1</text>		</g>
+		<g id="shape8-39" v:mID="8" v:groupContext="shape" transform="translate(431.807,-763.37)">
+			<title>シート.8</title>
+			<desc>NO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.0416" cy="831.89" width="50.09" height="20"/>
+			<rect x="0" y="821.89" width="50.0832" height="20" class="st11"/>
+			<text x="17.2" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>NO</text>		</g>
+		<g id="shape9-42" v:mID="9" v:groupContext="shape" transform="translate(637.795,-579.118)">
+			<title>長方形.9</title>
+			<desc>秘密鍵のビット数確認</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow9-43" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st3"/>
+			<text x="10.46" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>秘密鍵のビット数確認</text>		</g>
+		<g id="shape10-48" v:mID="10" v:groupContext="shape" transform="translate(807.874,-579.118)">
+			<title>ひし形.10</title>
+			<desc>ビット数が1024bit~4096bit</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow10-49" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st2"/>
+			</g>
+			<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st3"/>
+			<text x="35.46" y="796.37" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>ビット数が<tspan x="23.03"
+						dy="1.2em" class="st5">1024</tspan><tspan class="st5">bit</tspan><tspan class="st5">~</tspan><tspan
+						class="st5">4096</tspan><tspan class="st5">bit</tspan></text>		</g>
+		<g id="shape11-59" v:mID="11" v:groupContext="shape" transform="translate(481.89,-720.85)">
+			<title>ひし形.11</title>
+			<desc>RSA/PEM形式の秘密鍵</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow11-60" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st2"/>
+			</g>
+			<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st3"/>
+			<text x="7.56" y="802.7" class="st13" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>RSA/PEM<tspan
+						class="st14">形式</tspan><tspan class="st14">の</tspan><tspan class="st14">秘密鍵</tspan></text>		</g>
+		<g id="shape12-68" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(439.37,-756.283)">
+			<title>動的コネクタ.12</title>
+			<path d="M0 834.8 L35.48 834.8" class="st7"/>
+		</g>
+		<g id="shape14-73" v:mID="14" v:groupContext="shape" transform="translate(587.712,-763.37)">
+			<title>シート.14</title>
+			<desc>NO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.0416" cy="831.89" width="50.09" height="20"/>
+			<rect x="0" y="821.89" width="50.0832" height="20" class="st11"/>
+			<text x="17.2" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>NO</text>		</g>
+		<g id="shape15-76" v:mID="15" v:groupContext="shape" transform="translate(637.795,-720.85)">
+			<title>長方形.46</title>
+			<desc>エラーメッセージ</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow15-77" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st15"/>
+			<text x="22.24" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>エラーメッセージ</text>		</g>
+		<g id="shape16-82" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(595.276,-756.283)">
+			<title>動的コネクタ.16</title>
+			<path d="M0 834.8 L35.48 834.8" class="st7"/>
+		</g>
+		<g id="shape17-87" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(751.181,-756.283)">
+			<title>動的コネクタ.17</title>
+			<path d="M0 834.8 L35.48 834.8" class="st7"/>
+		</g>
+		<g id="shape18-92" v:mID="18" v:groupContext="shape" transform="translate(325.984,-522.425)">
+			<title>ひし形.18</title>
+			<desc>パスフレーズの 指定がある</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow18-93" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st2"/>
+			</g>
+			<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st3"/>
+			<text x="24.27" y="796.04" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>パスフレーズの<v:newlineChar/><tspan
+						x="32.67" dy="1.331em" class="st6">指定</tspan>がある</text>		</g>
+		<g id="shape19-99" v:mID="19" v:groupContext="shape" transform="translate(184.252,-522.425)">
+			<title>長方形.19</title>
+			<desc>エラーメッセージ</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow19-100" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st15"/>
+			<text x="22.24" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>エラーメッセージ</text>		</g>
+		<g id="shape20-105" v:mID="20" v:groupContext="shape" transform="translate(28.3465,-522.425)">
+			<title>楕円.20</title>
+			<desc>exit 1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="799.37" width="111.62" height="74.4094"/>
+			<g id="shadow20-106" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st2"/>
+			</g>
+			<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st9"/>
+			<text x="45.7" y="802.37" class="st10" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>exit 1</text>		</g>
+		<g id="shape21-111" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(325.984,-557.858)">
+			<title>動的コネクタ.21</title>
+			<path d="M0 834.8 L-21.31 834.8" class="st7"/>
+		</g>
+		<g id="shape22-116" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(184.252,-557.858)">
+			<title>動的コネクタ.22</title>
+			<path d="M0 834.8 L-21.31 834.8" class="st7"/>
+		</g>
+		<g id="shape23-121" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(375.591,-720.85)">
+			<title>動的コネクタ.23</title>
+			<path d="M7.09 841.89 L7.09 948.24" class="st7"/>
+		</g>
+		<g id="shape24-126" v:mID="24" v:groupContext="shape" transform="translate(378.895,-700.85)">
+			<title>シート.24</title>
+			<desc>YES</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.955" cy="831.89" width="35.92" height="20"/>
+			<rect x="0" y="821.89" width="35.91" height="20" class="st11"/>
+			<text x="9.34" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>YES</text>		</g>
+		<g id="shape26-129" v:mID="26" v:groupContext="shape" transform="translate(290.074,-564.945)">
+			<title>シート.26</title>
+			<desc>NO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.0416" cy="831.89" width="50.09" height="20"/>
+			<rect x="0" y="821.89" width="50.0832" height="20" class="st11"/>
+			<text x="17.2" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>NO</text>		</g>
+		<g id="shape28-132" v:mID="28" v:groupContext="shape" transform="translate(378.895,-502.425)">
+			<title>シート.28</title>
+			<desc>YES</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.955" cy="831.89" width="35.92" height="20"/>
+			<rect x="0" y="821.89" width="35.91" height="20" class="st11"/>
+			<text x="9.34" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>YES</text>		</g>
+		<g id="shape29-135" v:mID="29" v:groupContext="shape" transform="translate(325.984,-324)">
+			<title>ひし形.29</title>
+			<desc>パスフレーズで 秘密鍵の解除が 可能</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow29-136" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st2"/>
+			</g>
+			<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st3"/>
+			<text x="24.76" y="789.39" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>パスフレーズで<v:newlineChar/><tspan
+						x="21.69" dy="1.331em" class="st6">秘密鍵</tspan>の解除が<v:newlineChar/><tspan x="46.69" dy="1.331em" class="st6">可能</tspan></text>		</g>
+		<g id="shape30-143" v:mID="30" v:groupContext="shape" transform="translate(184.252,-324)">
+			<title>長方形.30</title>
+			<desc>エラーメッセージ</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow30-144" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st15"/>
+			<text x="22.24" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>エラーメッセージ</text>		</g>
+		<g id="shape31-149" v:mID="31" v:groupContext="shape" transform="translate(28.3465,-324)">
+			<title>楕円.31</title>
+			<desc>exit 1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="799.37" width="111.62" height="74.4094"/>
+			<g id="shadow31-150" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st2"/>
+			</g>
+			<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st9"/>
+			<text x="45.7" y="802.37" class="st10" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>exit 1</text>		</g>
+		<g id="shape32-155" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(325.984,-359.433)">
+			<title>動的コネクタ.32</title>
+			<path d="M0 834.8 L-21.31 834.8" class="st7"/>
+		</g>
+		<g id="shape33-160" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(184.252,-359.433)">
+			<title>動的コネクタ.33</title>
+			<path d="M0 834.8 L-21.31 834.8" class="st7"/>
+		</g>
+		<g id="shape34-165" v:mID="34" v:groupContext="shape" transform="translate(290.074,-366.52)">
+			<title>シート.34</title>
+			<desc>NO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.0416" cy="831.89" width="50.09" height="20"/>
+			<rect x="0" y="821.89" width="50.0832" height="20" class="st11"/>
+			<text x="17.2" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>NO</text>		</g>
+		<g id="shape36-168" v:mID="36" v:groupContext="shape" v:layerMember="0" transform="translate(375.591,-522.425)">
+			<title>動的コネクタ.36</title>
+			<path d="M7.09 841.89 L7.09 948.24" class="st7"/>
+		</g>
+		<g id="shape37-173" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(439.37,-366.52)">
+			<title>動的コネクタ.37</title>
+			<path d="M0 841.89 L18.65 841.89 L18.65 445.04 L35.48 445.04" class="st7"/>
+		</g>
+		<g id="shape38-178" v:mID="38" v:groupContext="shape" transform="translate(425.197,-346.52)">
+			<title>シート.38</title>
+			<desc>YES</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.955" cy="831.89" width="35.92" height="20"/>
+			<rect x="0" y="821.89" width="35.91" height="20" class="st11"/>
+			<text x="9.34" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>YES</text>		</g>
+		<g id="shape39-181" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(538.583,-720.85)">
+			<title>動的コネクタ.39</title>
+			<path d="M0 841.89 L0 941.1 L92.17 941.1" class="st7"/>
+		</g>
+		<g id="shape40-186" v:mID="40" v:groupContext="shape" transform="translate(977.953,-579.118)">
+			<title>長方形.40</title>
+			<desc>エラーメッセージ</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow40-187" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st15"/>
+			<text x="22.24" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>エラーメッセージ</text>		</g>
+		<g id="shape41-192" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(751.181,-614.551)">
+			<title>動的コネクタ.41</title>
+			<path d="M0 834.8 L49.65 834.8" class="st7"/>
+		</g>
+		<g id="shape42-197" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(921.26,-614.551)">
+			<title>動的コネクタ.42</title>
+			<path d="M0 834.8 L49.65 834.8" class="st7"/>
+		</g>
+		<g id="shape43-202" v:mID="43" v:groupContext="shape" transform="translate(921.26,-621.638)">
+			<title>シート.43</title>
+			<desc>NO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.0416" cy="831.89" width="50.09" height="20"/>
+			<rect x="0" y="821.89" width="50.0832" height="20" class="st11"/>
+			<text x="17.2" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>NO</text>		</g>
+		<g id="shape50-205" v:mID="50" v:groupContext="shape" transform="translate(637.795,-324)">
+			<title>長方形.50</title>
+			<desc>秘密鍵の整合性確認</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow50-206" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st3"/>
+			<text x="11.69" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>秘密鍵の整合性確認</text>		</g>
+		<g id="shape51-211" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(538.583,-720.85)">
+			<title>動的コネクタ.51</title>
+			<path d="M0 841.89 L0 1196.22 L92.17 1196.22" class="st7"/>
+		</g>
+		<g id="shape52-216" v:mID="52" v:groupContext="shape" transform="translate(807.874,-324)">
+			<title>ひし形.52</title>
+			<desc>整合性が取れている</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow52-217" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st2"/>
+			</g>
+			<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st3"/>
+			<text x="13.14" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>整合性が取れている</text>		</g>
+		<g id="shape53-222" v:mID="53" v:groupContext="shape" transform="translate(977.953,-324)">
+			<title>長方形.53</title>
+			<desc>エラーメッセージ</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow53-223" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st15"/>
+			<text x="22.24" y="802.7" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>エラーメッセージ</text>		</g>
+		<g id="shape54-228" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(921.26,-359.433)">
+			<title>動的コネクタ.54</title>
+			<path d="M0 834.8 L49.65 834.8" class="st7"/>
+		</g>
+		<g id="shape55-233" v:mID="55" v:groupContext="shape" transform="translate(921.26,-366.52)">
+			<title>シート.55</title>
+			<desc>NO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.0416" cy="831.89" width="50.09" height="20"/>
+			<rect x="0" y="821.89" width="50.0832" height="20" class="st11"/>
+			<text x="17.2" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>NO</text>		</g>
+		<g id="shape56-236" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(751.181,-359.433)">
+			<title>動的コネクタ.56</title>
+			<path d="M0 834.8 L49.65 834.8" class="st7"/>
+		</g>
+		<g id="shape57-241" v:mID="57" v:groupContext="shape" transform="translate(800.787,-196.441)">
+			<title>楕円.57</title>
+			<desc>pass</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="799.37" width="111.62" height="74.4094"/>
+			<g id="shadow57-242" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st2"/>
+			</g>
+			<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st16"/>
+			<text x="51.73" y="802.37" class="st10" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>pass</text>		</g>
+		<g id="shape59-247" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(857.48,-324)">
+			<title>動的コネクタ.59</title>
+			<path d="M7.09 841.89 L7.09 877.37" class="st7"/>
+		</g>
+		<g id="shape60-252" v:mID="60" v:groupContext="shape" transform="translate(860.785,-559.118)">
+			<title>シート.60</title>
+			<desc>YES</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.955" cy="831.89" width="35.92" height="20"/>
+			<rect x="0" y="821.89" width="35.91" height="20" class="st11"/>
+			<text x="9.34" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>YES</text>		</g>
+		<g id="shape61-255" v:mID="61" v:groupContext="shape" transform="translate(860.785,-309.827)">
+			<title>シート.61</title>
+			<desc>YES</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.955" cy="831.89" width="35.92" height="20"/>
+			<rect x="0" y="821.89" width="35.91" height="20" class="st11"/>
+			<text x="9.34" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>YES</text>		</g>
+		<g id="shape65-258" v:mID="65" v:groupContext="shape" transform="translate(800.787,-457.386)">
+			<title>楕円.65</title>
+			<desc>pass</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="799.37" width="111.62" height="74.4094"/>
+			<g id="shadow65-259" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st2"/>
+			</g>
+			<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st16"/>
+			<text x="51.73" y="802.37" class="st10" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>pass</text>		</g>
+		<g id="shape66-264" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(857.48,-579.118)">
+			<title>動的コネクタ.66</title>
+			<path d="M7.09 841.89 L7.09 871.54" class="st7"/>
+		</g>
+		<g id="shape67-269" v:mID="67" v:groupContext="shape" transform="translate(538.583,-700.85)">
+			<title>シート.67</title>
+			<desc>YES</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.955" cy="831.89" width="35.92" height="20"/>
+			<rect x="0" y="821.89" width="35.91" height="20" class="st11"/>
+			<text x="9.34" y="835.49" class="st12" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>YES</text>		</g>
+	</g>
+</svg>

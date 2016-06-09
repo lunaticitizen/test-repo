@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Microsoft Visio、SVG Export により生成 certipy_logics4.svg 証明書と中間証明書の組み合わせ確認 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.5354in" height="11.6929in"
+		viewBox="0 0 1190.55 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
+	<v:documentProperties v:langID="1041" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:#5b9bd5;stroke:#c7c8c8;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:ＭＳ Ｐゴシック;font-size:0.499992em}
+		.st5 {font-size:1em}
+		.st6 {fill:#feffff;font-family:ＭＳ Ｐゴシック;font-size:0.833336em}
+		.st7 {font-family:Calibri;font-size:1em}
+		.st8 {fill:#feffff;font-family:ＭＳ Ｐゴシック;font-size:0.666664em}
+		.st9 {fill:#ed7d31;stroke:#c7c8c8;stroke-width:0.25}
+		.st10 {fill:#ff0000;stroke:#c7c8c8;stroke-width:0.25}
+		.st11 {fill:#feffff;font-family:Lucida Console;font-size:0.833336em}
+		.st12 {fill:#70ad47;stroke:#c7c8c8;stroke-width:0.25}
+		.st13 {marker-end:url(#mrkr4-49);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st14 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st15 {fill:none;stroke:none;stroke-width:0.25}
+		.st16 {fill:#5b9bd5;font-family:Calibri;font-size:1.00001em}
+		.st17 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-49" class="st14" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="6" v:index="4" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>証明書と中間証明書の組み合わせ確認</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="コネクタ" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(340.157,-720.85)">
+			<title>ひし形.86</title>
+			<desc>証明書の発行者のコモン ネームが中間証明書のサブジェクトの コモンネームと一致していること</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st2"/>
+			</g>
+			<path d="M56.69 841.89 L113.39 799.37 L56.69 756.85 L0 799.37 L56.69 841.89 Z" class="st3"/>
+			<text x="25.02" y="793.38" class="st4" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>証明書の発行者のコモン<v:newlineChar/><tspan
+						x="9.16" dy="1.331em" class="st5">ネームが</tspan>中間証明書のサブジェクトの<v:newlineChar/><tspan x="17" dy="1.331em"
+						class="st5">コモンネームと</tspan>一致していること</text>		</g>
+		<g id="shape2-9" v:mID="2" v:groupContext="shape" transform="translate(28.3465,-720.85)">
+			<title>平行四辺形</title>
+			<desc>証明書 &#38; 中間証明書</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow2-10" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 841.89 L102.05 841.89 L113.39 756.85 L11.34 756.85 L0 841.89 Z" class="st2"/>
+			</g>
+			<path d="M0 841.89 L102.05 841.89 L113.39 756.85 L11.34 756.85 L0 841.89 Z" class="st3"/>
+			<text x="41.69" y="790.04" class="st6" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>証明書<v:newlineChar/><tspan
+						x="53.28" dy="1.233em" class="st7">&#38;<v:newlineChar/></tspan><tspan x="31.69" dy="1.298em" class="st5">中間証明書</tspan></text>		</g>
+		<g id="shape3-17" v:mID="3" v:groupContext="shape" transform="translate(184.252,-720.85)">
+			<title>長方形</title>
+			<desc>証明書の発行者のコモン ネームと中間証明書の サブジェクトのコモンネーム の確認</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow3-18" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st3"/>
+			<text x="14.46" y="786.06" class="st8" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>証明書の発行者のコモン<v:newlineChar/><tspan
+						x="18.16" dy="1.331em" class="st5">ネームと</tspan>中間証明書の<v:newlineChar/><tspan x="11.08" dy="1.331em"
+						class="st5">サブジェクトのコモンネーム<v:newlineChar/></tspan><tspan x="44.69" dy="1.331em" class="st5">の</tspan>確認</text>		</g>
+		<g id="shape5-26" v:mID="5" v:groupContext="shape" transform="translate(496.063,-720.85)">
+			<title>長方形.19</title>
+			<desc>エラーメッセージ</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<g id="shadow5-27" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="756.85" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st9"/>
+			<text x="22.24" y="802.7" class="st6" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>エラーメッセージ</text>		</g>
+		<g id="shape6-32" v:mID="6" v:groupContext="shape" transform="translate(651.969,-720.85)">
+			<title>楕円</title>
+			<desc>exit 1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="799.37" width="111.62" height="74.4094"/>
+			<g id="shadow6-33" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st2"/>
+			</g>
+			<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st10"/>
+			<text x="45.7" y="802.37" class="st11" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>exit 1</text>		</g>
+		<g id="shape7-38" v:mID="7" v:groupContext="shape" transform="translate(333.071,-593.291)">
+			<title>楕円.34</title>
+			<desc>pass</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="799.37" width="111.62" height="74.4094"/>
+			<g id="shadow7-39" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st2"/>
+			</g>
+			<path d="M0 799.37 A63.7795 42.5197 0 0 1 127.56 799.37 A63.7795 42.5197 0 0 1 0 799.37 Z" class="st12"/>
+			<text x="51.73" y="802.37" class="st11" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>pass</text>		</g>
+		<g id="shape8-44" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(136.063,-756.283)">
+			<title>動的コネクタ</title>
+			<path d="M0 834.8 L41.15 834.8" class="st13"/>
+		</g>
+		<g id="shape9-50" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(297.638,-756.283)">
+			<title>動的コネクタ.9</title>
+			<path d="M0 834.8 L35.48 834.8" class="st13"/>
+		</g>
+		<g id="shape10-55" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(453.543,-756.283)">
+			<title>動的コネクタ.10</title>
+			<path d="M0 834.8 L35.48 834.8" class="st13"/>
+		</g>
+		<g id="shape11-60" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-756.283)">
+			<title>動的コネクタ.11</title>
+			<path d="M0 834.8 L35.48 834.8" class="st13"/>
+		</g>
+		<g id="shape12-65" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(389.764,-720.85)">
+			<title>動的コネクタ.12</title>
+			<path d="M7.09 841.89 L7.09 877.37" class="st13"/>
+		</g>
+		<g id="shape13-70" v:mID="13" v:groupContext="shape" transform="translate(445.98,-763.37)">
+			<title>シート.13</title>
+			<desc>NO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.0416" cy="831.89" width="50.09" height="20"/>
+			<rect x="0" y="821.89" width="50.0832" height="20" class="st15"/>
+			<text x="17.2" y="835.49" class="st16" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>NO</text>		</g>
+		<g id="shape14-73" v:mID="14" v:groupContext="shape" transform="translate(393.069,-700.85)">
+			<title>シート.14</title>
+			<desc>YES</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.955" cy="831.89" width="35.92" height="20"/>
+			<rect x="0" y="821.89" width="35.91" height="20" class="st15"/>
+			<text x="9.34" y="835.49" class="st16" v:langID="1041"><v:paragraph v:horizAlign="1"/><v:tabList/>YES</text>		</g>
+	</g>
+</svg>
